@@ -18,4 +18,4 @@ Si quieres contratarme puedes escribirme a jdavidps95@gmail.com para cualquier t
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](https://github.com/IkonikJD/Mi-Primer-Portfolio/blob/main/LICENSE) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](https://github.com/IkonikJD/tareas-app/blob/main/LICENSE.md) para detalles
